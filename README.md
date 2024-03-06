@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&text=Hello!&desc=🍀soojeong's%20github🍀&reversal=true&fontSize=80&animation=twinkling&FontAlignY=center&descAlignY=80&color=gradient&customColorList=23&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=150&text=Hello!&desc=🍀soojeong's%20github🍀&reversal=true&fontSize=80&animation=twinkling&FontAlignY=center&descAlignY=80&color=gradient&customColorList=23&fontColor=ffffff)
